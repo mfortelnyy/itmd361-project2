@@ -1,0 +1,142 @@
+#navbar{
+  background-color: CornflowerBlue;
+  overflow: hidden; 
+}
+
+#nav-container{
+  
+  /*width: 100%;
+  position: relative;
+  */
+  text-align: center;
+  
+}
+#navbar ul {
+  list-style-type: none;
+  margin: 0; 
+  padding: 0; 
+  display: inline-block;
+  vertical-align: top;
+}
+#navbar ul li{
+  float: left;
+  /*position: relative; 
+  display: block;*/
+  font-family: 'Teko', sans-serif;
+  font-size: 1.6em;
+}
+
+#navbar ul li a{
+  display: block;
+  padding: 10px 20px;
+  color: NavajoWhite;
+  text-decoration: none;
+}
+
+#navbar ul li a:hover{
+  text-decoration: underline;
+  background-color: DarkOrchid;
+}
+
+h1{
+	font-weight: 700;
+}
+
+h2 {
+	font-weight: 650;
+}
+
+h3 {
+	font-weight: 550;
+}
+
+strong{
+  font-weight: 550;
+}
+
+#main-content{
+	margin:0;
+	padding:0;
+	
+	
+	
+}
+header
+{
+	margin: 0;
+	padding: 0;
+}
+
+
+#resumebody{
+	text-align: center;
+	background-image: url("../media/resumebg.jfif");
+	background-size: 120%;
+	background-repeat: left;
+	margin: 0;
+	padding: 0;
+    font-family: Monaco, Monospace;
+}
+
+#name{
+	margin: 0;
+	padding: 0;
+}
+
+#college ul{
+	list-style: none;
+	position:relative;
+	left: 35%;
+	text-align: left;
+}
+#college ul li a{
+	position:relative;
+	text-align: left;
+	text-decoration: none;
+}
+
+em{
+	background: lightyellow;
+}
+
+#summary p{
+	width: 25%;
+	height: 25%;
+	left: 38%;
+	position: relative;
+}
+
+#summary{
+margin-bottom: 11em;
+}
+
+#skills ul{
+	list-style: none;
+	position:relative;
+	left: 35%;
+	text-align: left;
+}
+#skills ul li a{
+	position:relative;
+	text-align: left;
+	text-decoration: none;
+}
+
+#experience ul{
+	list-style: none;
+	position:relative;
+	left: 20%;
+	text-align: left;
+}
+#experience ul li a{
+	position:relative;
+	text-align: left;
+	text-decoration: none;
+}
+
+footer p{
+	background-color: plum;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
