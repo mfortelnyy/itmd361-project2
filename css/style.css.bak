@@ -71,7 +71,7 @@ header
 #resumebody{
 	text-align: center;
 	background-image: url("../media/resumebg.jfif");
-	background-size: 120%;
+	background-size: 100%;
 	background-repeat: left;
 	margin: 0;
 	padding: 0;
@@ -95,7 +95,7 @@ header
 	text-decoration: none;
 }
 
-em{
+#main-content em{
 	background: lightyellow;
 }
 
@@ -139,4 +139,36 @@ footer p{
 	text-align: center;
 	margin: 0;
 	padding: 0;
+}
+
+#logo{
+  display: inline-block;
+  float:left;
+  text-align:center;
+}
+#logo img{
+  width: 80%;
+  height: 80%;
+  margin:0;
+  padding:0;
+}
+
+#description{
+	width:80%;
+	margin-top: 15em;
+}
+
+#history h1{
+	text-align: center;
+	background-color: fireBrick;
+	margin:0;
+	padding:0;
+}
+
+#achiv{
+	clear:both;
+}
+
+#soccerbody{
+	background-image = url("../media/soccerbg.jpg");
 }
