@@ -75,7 +75,7 @@ header
 	margin: 0;
 	padding: 0;
     font-family: Monaco, Monospace;
-	width:100;
+	width:100%;
 	float:left;
 }
 
@@ -262,7 +262,7 @@ footer p{
 	 text-align:center;
 	 margin:0;
 	 padding-bottom: 2em;
-	 width:100;
+	 width:100%;
 	 font-family: 'Sansita Swashed', cursive;
 	 font-size: 3em;
  }
@@ -275,7 +275,7 @@ footer p{
 	 position: relative;
 	 margin:0;
 	 padding-top:10em;
-	 margin: 5em ,0;
+	 margin: 5em 0;
 	 font-size: 1.5em;
 	 text-decoration: underline;
  }
