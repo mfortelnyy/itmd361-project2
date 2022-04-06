@@ -67,7 +67,7 @@
 	  <h2>EXPERIENCE</h2>
 	  <p>Teacher Assistant, Feb 2021 - Aug 2021</p>
 	  <p><em>High Clarity Inc, Buffalo Grove, IL</em></p>
-	  <ul>
+	  <ul id="explist">
 	    <li>Assisted lead teacher with grading assignments, maintaining records, and preparing for class sessions.</li>
 	    <li>Supported students' academic progress by providing one-on-one attention to help guide learning and comprehension.</li>
 	    <li>Prepared and set up audiovisual equipment and supplemental learning resources.</li>
