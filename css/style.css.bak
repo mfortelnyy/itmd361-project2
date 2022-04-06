@@ -39,53 +39,53 @@
 }
 
 h1{
-	font-weight: 700;
+  font-weight: 700;
 }
 
-h2 {
-	font-weight: 650;
+h2{
+  font-weight: 650;
 }
 
-h3 {
-	font-weight: 550;
+h3{
+  font-weight: 550;
 }
 
 strong{
   font-weight: 550;
 }
 
-#main-content{
-	margin:0;
-	padding:0;	
-	width:100%;
-}
-header
-{
-	margin: 0;
-	padding: 0;
-	width:100%;
+
+header{
+  margin: 0;
+  padding: 0;
+  width:100%;
 }
 
+#collegeclasses{
+  overflow: hidden;
+  width: 50%;
+}  
 
-#rsumebody{
-	text-align: center;
-	background-image: url("../media/resumebg.jfif");
-	background-size: 90%;
-	background-repeat: no-repeat;
-	margin: 0;
-	padding: 0;
-    font-family: Monaco, Monospace;
-	width:100%;
-	float:left;
+#skillslist{
+  overflow:hidden;
+  width: 50%;
+  text-align: center;
+}
+
+#explist{
+  overflow: hidden;
+  width:50%;
+  left: 50%;
+  text-align: center;
 }
 
 #resumebody{
 	background: linear-gradient(90deg, blue, #000 20em, #fff 20px, #fff 40px);
+	background-repeat: no-repeat;
     text-align: center;
 	margin: 0;
 	padding: 0;
     font-family: Monaco, Monospace;
-	width:100%;
 	float:left;
 }
 
@@ -97,8 +97,8 @@ header
 #college ul{
 	list-style: none;
 	position:relative;
-	left: 35%;
-	text-align: left;
+	left: 23%;
+	text-align: center;
 }
 
 #college ul li a{
@@ -125,26 +125,39 @@ float:left;
 
 #skills ul{
 	list-style: none;
-	position:relative;
-	left: 35%;
-	text-align: left;
-}
-#skills ul li a{
-	position:relative;
-	text-align: left;
-	text-decoration: none;
+	position: relative;
+	left: 23%;
+	text-align: center;
 }
 
+#skills ul li{
+  text-align:center;
+  left:30%;
+}
+
+#skills ul li a{
+	position:relative;
+	text-align: center;
+	text-decoration: none;
+}
+#experience{
+  left: 60%;
+}
+#experience ul li{
+  left: 30%;
+}
+	
 #experience ul{
 	list-style: none;
 	position:relative;
-	left: 20%;
-	text-align: left;
+	left: 25%;
+	text-align: center;
 }
 #experience ul li a{
 	position:relative;
-	text-align: left;
+	text-align: center;
 	text-decoration: none;
+	
 }
 
 footer p{

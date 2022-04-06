@@ -37,7 +37,7 @@
 	  <p><em> Bachelor of Science: Computer Science</em>, May 2023</p>
 	  <p>GPA 3.34</p>
 	  <p>Related Course Work</p>
-	  <ul>
+	  <ul id="collegeclasses">
 	    <li>Object-oriented Programming I, II</li>
 	    <li>Computer Organization & Assembly Language Programming</li>
 	    <li>Data Structures and Algorithms. Advanced Algorithms</li>
@@ -52,14 +52,14 @@
 	</section>
 	<section id="skills">
 	  <h2>SKILLS</h2>
-	  <ul>
+	  <ul id="skillslist">
 	    <li>Advanced in <em>Java, C&#35;</em></li>
 	    <li>Application Development in VS, Eclipse, Android Studio</li>
 	    <li>Code debugging</li>
 	    <li>Intermediate in <em>C, C&#43;&#43;, Python, SQL, JavaScript, Swift, Assembly Language</em></li>
 	    <li>Beginner in <em>HTML, CSS and Racket</em></li>
 	    <li>Training and management skills</li>
-	    <li>Completed <em>Software Developer Training in C#</em> in 2018</li>
+	    <li>Completed <em>Software Developer Training in C&#35</em> in 2018</li>
 	    <li>OOP projects grading</li>
 	  </ul>
 	</section>
